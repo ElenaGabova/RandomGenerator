@@ -8,7 +8,7 @@
 POST api/Numbers/AddGenerateNumbers - генерация последовательности чисел, сохранение в БД
 <br>
 POST api/Numbers/AddCountNumbers - подсчет повторов  сгенерированных чисел, сохранение в БД
-<br>
+<br><br>
 GET api/Numbers/GetNumberRepetitionByNumber - отправка числа, получение из БД количества повторов числа
 <br>
 GET api/Numbers/GetNumberByNumberRepetitions - отправка числа, получение из БД количества чисел, с таким же повторов
