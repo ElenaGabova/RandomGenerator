@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "EcdAyL57TZaSFWLmUtPbKSC886OLagCWSAIYegdVjEM=",
+  "Source": "RandomNumbersProject",
+  "BasePath": "_content/RandomNumbersProject",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RandomNumbersProject\\wwwroot",
+      "Source": "RandomNumbersProject",
+      "ContentRoot": "D:\\C#\\Projects\\RandomNumbersProject\\RandomNumbersProject\\RandomNumbersProject\\wwwroot\\",
+      "BasePath": "_content/RandomNumbersProject",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\C#\\Projects\\RandomNumbersProject\\RandomNumbersProject\\RandomNumbersProject\\wwwroot\\index.html",
+      "SourceId": "RandomNumbersProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C#\\Projects\\RandomNumbersProject\\RandomNumbersProject\\RandomNumbersProject\\wwwroot\\",
+      "BasePath": "_content/RandomNumbersProject",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
