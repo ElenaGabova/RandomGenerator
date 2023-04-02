@@ -11,9 +11,9 @@ POST api/Numbers/AddCountNumbers - подсчет повторов  сгенер
 <br>
 GET api/Numbers/GetNumberRepetitionByNumber - отправка числа, получение из БД количества повторов числа
 <br>
-GET api/Numbers/GetNumberByNumberRepetitions - отправка числа, получение из БД количества чисел, с таким же повтором
+GET api/Numbers/GetNumberByNumberRepetitions - отправка числа, получение из БД количества чисел, с таким же повторов
 <br>
-GET api/Numbers/GetNumbersWithTopRepetitions - отправка числа повторов, получение из БД топ чисел с максимальным колиеством повторов
+GET api/Numbers/GetNumbersWithTopRepetitions - отправка числа повторов, получение из БД топ чисел с максимальным количеством повторов
 <br><br>
 Структура проекта:
 <br>
