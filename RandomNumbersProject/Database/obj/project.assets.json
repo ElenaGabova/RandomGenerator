@@ -3401,11 +3401,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\Projects\\RandomNumbersProject\\RandomNumbersProject\\Database\\Database.csproj",
+      "projectUniqueName": "D:\\C#\\git\\RandomGenerator\\RandomNumbersProject\\Database\\Database.csproj",
       "projectName": "Database",
-      "projectPath": "D:\\C#\\Projects\\RandomNumbersProject\\RandomNumbersProject\\Database\\Database.csproj",
+      "projectPath": "D:\\C#\\git\\RandomGenerator\\RandomNumbersProject\\Database\\Database.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\Projects\\RandomNumbersProject\\RandomNumbersProject\\Database\\obj\\",
+      "outputPath": "D:\\C#\\git\\RandomGenerator\\RandomNumbersProject\\Database\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3426,11 +3426,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\C#\\Projects\\RandomNumbersProject\\RandomNumbersProject\\Entities\\Entities.csproj": {
-              "projectPath": "D:\\C#\\Projects\\RandomNumbersProject\\RandomNumbersProject\\Entities\\Entities.csproj"
+            "D:\\C#\\git\\RandomGenerator\\RandomNumbersProject\\Entities\\Entities.csproj": {
+              "projectPath": "D:\\C#\\git\\RandomGenerator\\RandomNumbersProject\\Entities\\Entities.csproj"
             },
-            "D:\\C#\\Projects\\RandomNumbersProject\\RandomNumbersProject\\Interface\\Interface.csproj": {
-              "projectPath": "D:\\C#\\Projects\\RandomNumbersProject\\RandomNumbersProject\\Interface\\Interface.csproj"
+            "D:\\C#\\git\\RandomGenerator\\RandomNumbersProject\\Interface\\Interface.csproj": {
+              "projectPath": "D:\\C#\\git\\RandomGenerator\\RandomNumbersProject\\Interface\\Interface.csproj"
             }
           }
         }

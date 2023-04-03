@@ -3,21 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32407.343
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomNumbersProject", "RandomNumbersProject\RandomNumbersProject.csproj", "{275F5E47-B06F-45C6-953D-89A8D8123B0A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repository", "Repository\Repository.csproj", "{C6DF9B4D-46C0-49F8-9384-755028F0996C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{C6DF9B4D-46C0-49F8-9384-755028F0996C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interface", "Interface\Interface.csproj", "{06705AD9-347B-48E3-AFDB-DF96B85F4DA9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface.csproj", "{06705AD9-347B-48E3-AFDB-DF96B85F4DA9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Database", "Database\Database.csproj", "{5E42C846-D3D7-4396-86DB-56A1A56B9D50}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Database", "Database\Database.csproj", "{5E42C846-D3D7-4396-86DB-56A1A56B9D50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Entities\Entities.csproj", "{63BB141A-946B-44D0-AA49-F39F5274BE20}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{63BB141A-946B-44D0-AA49-F39F5274BE20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mapper", "Mapper\Mapper.csproj", "{B97ABCBC-B6D6-4958-B07B-A6A39565F2FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mapper", "Mapper\Mapper.csproj", "{B97ABCBC-B6D6-4958-B07B-A6A39565F2FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Domain\Domain.csproj", "{2A2EC16A-3383-4923-838A-469319E3784D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{2A2EC16A-3383-4923-838A-469319E3784D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constants", "Constants\Constants.csproj", "{0F53A7E2-1886-468A-9ECA-120A5EE50772}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constants", "Constants\Constants.csproj", "{0F53A7E2-1886-468A-9ECA-120A5EE50772}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomNumberProjectView", "RandomNumberProjectView\RandomNumberProjectView.csproj", "{660446D0-7D32-46A5-B8C6-D3FEC861A24F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,10 +25,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{275F5E47-B06F-45C6-953D-89A8D8123B0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{275F5E47-B06F-45C6-953D-89A8D8123B0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{275F5E47-B06F-45C6-953D-89A8D8123B0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{275F5E47-B06F-45C6-953D-89A8D8123B0A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C6DF9B4D-46C0-49F8-9384-755028F0996C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C6DF9B4D-46C0-49F8-9384-755028F0996C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6DF9B4D-46C0-49F8-9384-755028F0996C}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -57,6 +53,10 @@ Global
 		{0F53A7E2-1886-468A-9ECA-120A5EE50772}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F53A7E2-1886-468A-9ECA-120A5EE50772}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F53A7E2-1886-468A-9ECA-120A5EE50772}.Release|Any CPU.Build.0 = Release|Any CPU
+		{660446D0-7D32-46A5-B8C6-D3FEC861A24F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{660446D0-7D32-46A5-B8C6-D3FEC861A24F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{660446D0-7D32-46A5-B8C6-D3FEC861A24F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{660446D0-7D32-46A5-B8C6-D3FEC861A24F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

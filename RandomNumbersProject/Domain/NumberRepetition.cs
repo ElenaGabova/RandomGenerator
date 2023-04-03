@@ -41,9 +41,6 @@ namespace Entities
 
         private void setRepetitionNumber(int value)
         {
-            if (value < MinNumber || value > MaxNumber)
-                throw new ArgumentException(string.Format(Resources.NotValidNumber, MinNumber, MaxNumber));
-
             this.repetitionAmount = value;
         }
 

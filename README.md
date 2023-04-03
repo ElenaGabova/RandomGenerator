@@ -31,4 +31,4 @@ Interface       - интерфейсы по работе с сущностями
 <br>
 Repository - репозитории по работе с сущностями в сервисах
 <br><br>
-RandomNumbersProject - веб-апи для тестирования функционала
+RandomNumbersProjectView - mvc приложение для тестирвоания функционала

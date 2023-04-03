@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xiR72gy+ah/iBUEQx/+NSX4Q1cQ7Y9LVEb1ept6/sC7oQwouuowRT/zUc6XA0u7OXkG6KRKYo/nJyRpP+FST0Q==",
+  "dgSpecHash": "3jwYqPE1h/m6bOvbU9YyDFqMD9sRJoBwiOCRuwM1jWsMNxOKJ5mr6+FyPQDB0xigtM+hA9AkW7xQWax/7/VTxg==",
   "success": true,
-  "projectFilePath": "D:\\C#\\Projects\\RandomNumbersProject\\RandomNumbersProject\\Repository\\Repository.csproj",
+  "projectFilePath": "D:\\C#\\git\\RandomGenerator\\RandomNumbersProject\\Repository\\Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",

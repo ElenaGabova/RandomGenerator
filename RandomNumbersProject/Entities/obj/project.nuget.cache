@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qJE/ZOupxsflUL0uPIT7jK2QZGNp+mK4mxLEMP7ret5JTjwITdy8+H+uzRMjUt+yrsu+ZH5DbvcTZdb7eY6yJQ==",
+  "dgSpecHash": "07u/hL0iLVqyCbAc169AyASZkuYT+3Ut+JxeqyC1YWcaMW6v74gObTP7fa1fyc6IiZuYrogJQHxeT8Z1rRY71g==",
   "success": true,
-  "projectFilePath": "D:\\C#\\Projects\\RandomNumbersProject\\RandomNumbersProject\\Entities\\Entities.csproj",
+  "projectFilePath": "D:\\C#\\git\\RandomGenerator\\RandomNumbersProject\\Entities\\Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

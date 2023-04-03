@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\Projects\\RandomNumbersProject\\RandomNumbersProject\\Entities\\Entities.csproj": {}
+    "D:\\C#\\git\\RandomGenerator\\RandomNumbersProject\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "D:\\C#\\Projects\\RandomNumbersProject\\RandomNumbersProject\\Entities\\Entities.csproj": {
+    "D:\\C#\\git\\RandomGenerator\\RandomNumbersProject\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Projects\\RandomNumbersProject\\RandomNumbersProject\\Entities\\Entities.csproj",
+        "projectUniqueName": "D:\\C#\\git\\RandomGenerator\\RandomNumbersProject\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "D:\\C#\\Projects\\RandomNumbersProject\\RandomNumbersProject\\Entities\\Entities.csproj",
+        "projectPath": "D:\\C#\\git\\RandomGenerator\\RandomNumbersProject\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Projects\\RandomNumbersProject\\RandomNumbersProject\\Entities\\obj\\",
+        "outputPath": "D:\\C#\\git\\RandomGenerator\\RandomNumbersProject\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wVI18RkxnG97uns1cFmUE2A5oQ1eELI/rNLYdwR3w19G6vJbgXRGxp4kPKtTIwfK73eeMBNuQVeQNZyX1rOgyA==",
+  "dgSpecHash": "0ZVihhV002bK+LvcaVV3sYHQ1re7IMqreMts2JrBeO2bsLxi1SSTcp2iCbIq3FKjfZS3LhoPbVIF1LJLUR+sDw==",
   "success": true,
-  "projectFilePath": "D:\\C#\\Projects\\RandomNumbersProject\\RandomNumbersProject\\Interface\\Interface.csproj",
+  "projectFilePath": "D:\\C#\\git\\RandomGenerator\\RandomNumbersProject\\Interface\\Interface.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

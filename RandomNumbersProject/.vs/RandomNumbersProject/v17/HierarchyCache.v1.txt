@@ -1,0 +1,375 @@
+﻿++Solution 'RandomNumbersProject' ‎(9 of 9 projects)
+++RandomNumbersProject
+++Connected Services 
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:>1289
+++Dependencies
+i:{c6df9b4d-46c0-49f8-9384-755028f0996c}:>797
+i:{06705ad9-347b-48e3-afdb-df96b85f4da9}:>798
+i:{5e42c846-d3d7-4396-86db-56a1a56b9d50}:>819
+i:{63bb141a-946b-44d0-aa49-f39f5274be20}:>816
+i:{b97abcbc-b6d6-4958-b07b-a6a39565f2fa}:>817
+i:{2a2ec16a-3383-4923-838a-469319e3784d}:>818
+i:{0f53a7e2-1886-468a-9eca-120a5ee50772}:>820
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:>1288
+++Properties
+i:{c6df9b4d-46c0-49f8-9384-755028f0996c}:d:\c#\projects\randomnumbersproject\randomnumbersproject\repository\properties\
+i:{5e42c846-d3d7-4396-86db-56a1a56b9d50}:d:\c#\projects\randomnumbersproject\randomnumbersproject\database\properties\
+i:{2a2ec16a-3383-4923-838a-469319e3784d}:d:\c#\projects\randomnumbersproject\randomnumbersproject\domain\properties\
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\properties\
+++launchSettings.json
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\properties\launchsettings.json
+++wwwroot
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\wwwroot\
+++js
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\wwwroot\js\
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\wwwroot\lib\bootstrap\dist\js\
+++index.html
+++Controllers
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\controllers\
+++NumbersController.cs
+++appsettings.Development.json
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\appsettings.development.json
+++appsettings.json
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\appsettings.json
+++Program.cs
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\program.cs
+++RandomNumberViewModel.cs
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\models\randomnumberviewmodel.cs
+++No service dependencies discovered
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:>1290
+++Analyzers
+i:{c6df9b4d-46c0-49f8-9384-755028f0996c}:analyzers
+i:{06705ad9-347b-48e3-afdb-df96b85f4da9}:analyzers
+i:{5e42c846-d3d7-4396-86db-56a1a56b9d50}:analyzers
+i:{63bb141a-946b-44d0-aa49-f39f5274be20}:analyzers
+i:{b97abcbc-b6d6-4958-b07b-a6a39565f2fa}:analyzers
+i:{2a2ec16a-3383-4923-838a-469319e3784d}:analyzers
+i:{0f53a7e2-1886-468a-9eca-120a5ee50772}:analyzers
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:analyzers
+++Frameworks
+i:{c6df9b4d-46c0-49f8-9384-755028f0996c}:frameworks
+i:{06705ad9-347b-48e3-afdb-df96b85f4da9}:frameworks
+i:{5e42c846-d3d7-4396-86db-56a1a56b9d50}:frameworks
+i:{63bb141a-946b-44d0-aa49-f39f5274be20}:frameworks
+i:{b97abcbc-b6d6-4958-b07b-a6a39565f2fa}:frameworks
+i:{2a2ec16a-3383-4923-838a-469319e3784d}:frameworks
+i:{0f53a7e2-1886-468a-9eca-120a5ee50772}:frameworks
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:frameworks
+++Packages
+i:{c6df9b4d-46c0-49f8-9384-755028f0996c}:packages
+i:{5e42c846-d3d7-4396-86db-56a1a56b9d50}:packages
+i:{b97abcbc-b6d6-4958-b07b-a6a39565f2fa}:packages
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:packages
+++Projects
+i:{c6df9b4d-46c0-49f8-9384-755028f0996c}:projects
+i:{06705ad9-347b-48e3-afdb-df96b85f4da9}:projects
+i:{5e42c846-d3d7-4396-86db-56a1a56b9d50}:projects
+i:{b97abcbc-b6d6-4958-b07b-a6a39565f2fa}:projects
+i:{2a2ec16a-3383-4923-838a-469319e3784d}:projects
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:projects
+++Microsoft.AspNetCore.Analyzers
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.5\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.5\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{c6df9b4d-46c0-49f8-9384-755028f0996c}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{06705ad9-347b-48e3-afdb-df96b85f4da9}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{5e42c846-d3d7-4396-86db-56a1a56b9d50}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{63bb141a-946b-44d0-aa49-f39f5274be20}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{b97abcbc-b6d6-4958-b07b-a6a39565f2fa}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{2a2ec16a-3383-4923-838a-469319e3784d}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{0f53a7e2-1886-468a-9eca-120a5ee50772}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{c6df9b4d-46c0-49f8-9384-755028f0996c}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{06705ad9-347b-48e3-afdb-df96b85f4da9}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{5e42c846-d3d7-4396-86db-56a1a56b9d50}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{63bb141a-946b-44d0-aa49-f39f5274be20}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{b97abcbc-b6d6-4958-b07b-a6a39565f2fa}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{2a2ec16a-3383-4923-838a-469319e3784d}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{0f53a7e2-1886-468a-9eca-120a5ee50772}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{c6df9b4d-46c0-49f8-9384-755028f0996c}:c:\users\admin\.nuget\packages\microsoft.entityframeworkcore.analyzers\7.0.4\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{5e42c846-d3d7-4396-86db-56a1a56b9d50}:c:\users\admin\.nuget\packages\microsoft.entityframeworkcore.analyzers\7.0.4\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:c:\users\admin\.nuget\packages\microsoft.entityframeworkcore.analyzers\7.0.4\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{c6df9b4d-46c0-49f8-9384-755028f0996c}:c:\users\admin\.nuget\packages\microsoft.extensions.logging.abstractions\7.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{5e42c846-d3d7-4396-86db-56a1a56b9d50}:c:\users\admin\.nuget\packages\microsoft.extensions.logging.abstractions\7.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.5\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{c6df9b4d-46c0-49f8-9384-755028f0996c}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.5\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{06705ad9-347b-48e3-afdb-df96b85f4da9}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.5\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{5e42c846-d3d7-4396-86db-56a1a56b9d50}:c:\users\admin\.nuget\packages\system.text.json\7.0.0\analyzers\dotnet\roslyn4.0\cs\system.text.json.sourcegeneration.dll
+i:{63bb141a-946b-44d0-aa49-f39f5274be20}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.5\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{b97abcbc-b6d6-4958-b07b-a6a39565f2fa}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.5\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{2a2ec16a-3383-4923-838a-469319e3784d}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.5\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{0f53a7e2-1886-468a-9eca-120a5ee50772}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.5\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.5\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{c6df9b4d-46c0-49f8-9384-755028f0996c}:d:\c#\projects\randomnumbersproject\randomnumbersproject\repository\microsoft.netcore.app
+i:{06705ad9-347b-48e3-afdb-df96b85f4da9}:d:\c#\projects\randomnumbersproject\randomnumbersproject\interface\microsoft.netcore.app
+i:{5e42c846-d3d7-4396-86db-56a1a56b9d50}:d:\c#\projects\randomnumbersproject\randomnumbersproject\database\microsoft.netcore.app
+i:{63bb141a-946b-44d0-aa49-f39f5274be20}:d:\c#\projects\randomnumbersproject\randomnumbersproject\entities\microsoft.netcore.app
+i:{b97abcbc-b6d6-4958-b07b-a6a39565f2fa}:d:\c#\projects\randomnumbersproject\randomnumbersproject\mapper\microsoft.netcore.app
+i:{2a2ec16a-3383-4923-838a-469319e3784d}:d:\c#\projects\randomnumbersproject\randomnumbersproject\domain\microsoft.netcore.app
+i:{0f53a7e2-1886-468a-9eca-120a5ee50772}:d:\c#\projects\randomnumbersproject\randomnumbersproject\constants\microsoft.netcore.app
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\microsoft.netcore.app
+++AutoMapper (12.0.1)
+i:{c6df9b4d-46c0-49f8-9384-755028f0996c}:>1027
+i:{b97abcbc-b6d6-4958-b07b-a6a39565f2fa}:>1038
+++AutoMapper.Extensions.Microsoft.DependencyInjection (12.0.0)
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:>1489
+++JavaScriptEngineSwitcher.ChakraCore (3.20.6)
+++JavaScriptEngineSwitcher.ChakraCore.Native.linux-x64 (3.20.6)
+++JavaScriptEngineSwitcher.ChakraCore.Native.osx-x64 (3.20.6)
+++JavaScriptEngineSwitcher.ChakraCore.Native.win-x64 (3.20.6)
+++JavaScriptEngineSwitcher.ChakraCore.Native.win-x86 (3.20.6)
+++JavaScriptEngineSwitcher.Extensions.MsDependencyInjection (3.19.0)
+++Microsoft.EntityFrameworkCore.Design (7.0.4)
+++React.AspNet (5.2.12)
+++Serilog (2.12.0)
+++Serilog.AspNetCore (6.1.0)
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:>1491
+++Swashbuckle.AspNetCore (6.2.3)
+++Swashbuckle.AspNetCore.Swagger (6.5.0)
+++Database
+i:{c6df9b4d-46c0-49f8-9384-755028f0996c}:d:\c#\projects\randomnumbersproject\randomnumbersproject\database\database.csproj
+i:{00000000-0000-0000-0000-000000000000}:Database
+++Mapper
+i:{00000000-0000-0000-0000-000000000000}:Mapper
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\mapper\mapper.csproj
+++Repository
+i:{00000000-0000-0000-0000-000000000000}:Repository
+i:{5e42c846-d3d7-4396-86db-56a1a56b9d50}:d:\c#\projects\randomnumbersproject\randomnumbersproject\database\repository\
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\repository\repository.csproj
+++Resources.resx
+i:{c6df9b4d-46c0-49f8-9384-755028f0996c}:d:\c#\projects\randomnumbersproject\randomnumbersproject\repository\properties\resources.resx
+i:{5e42c846-d3d7-4396-86db-56a1a56b9d50}:d:\c#\projects\randomnumbersproject\randomnumbersproject\database\properties\resources.resx
+i:{2a2ec16a-3383-4923-838a-469319e3784d}:d:\c#\projects\randomnumbersproject\randomnumbersproject\domain\properties\resources.resx
+++NumberCounterRepository.cs
+i:{c6df9b4d-46c0-49f8-9384-755028f0996c}:d:\c#\projects\randomnumbersproject\randomnumbersproject\repository\numbercounterrepository.cs
+++NumberRepetitionRepository.cs
+i:{c6df9b4d-46c0-49f8-9384-755028f0996c}:d:\c#\projects\randomnumbersproject\randomnumbersproject\repository\numberrepetitionrepository.cs
+++NumberRepository.cs
+i:{c6df9b4d-46c0-49f8-9384-755028f0996c}:d:\c#\projects\randomnumbersproject\randomnumbersproject\repository\numberrepository.cs
+++RandomGeneratorRepository.cs
+i:{c6df9b4d-46c0-49f8-9384-755028f0996c}:d:\c#\projects\randomnumbersproject\randomnumbersproject\repository\randomgeneratorrepository.cs
+++ThreadSafeRandom.cs
+i:{c6df9b4d-46c0-49f8-9384-755028f0996c}:d:\c#\projects\randomnumbersproject\randomnumbersproject\repository\threadsaferandom.cs
+++Resources.Designer.cs
+i:{c6df9b4d-46c0-49f8-9384-755028f0996c}:d:\c#\projects\randomnumbersproject\randomnumbersproject\repository\properties\resources.designer.cs
+i:{5e42c846-d3d7-4396-86db-56a1a56b9d50}:d:\c#\projects\randomnumbersproject\randomnumbersproject\database\properties\resources.designer.cs
+i:{2a2ec16a-3383-4923-838a-469319e3784d}:d:\c#\projects\randomnumbersproject\randomnumbersproject\domain\properties\resources.designer.cs
+++Microsoft.Extensions.Logging.Abstractions (7.0.0)
+i:{c6df9b4d-46c0-49f8-9384-755028f0996c}:>1026
+++Domain
+i:{c6df9b4d-46c0-49f8-9384-755028f0996c}:d:\c#\projects\randomnumbersproject\randomnumbersproject\domain\domain.csproj
+i:{06705ad9-347b-48e3-afdb-df96b85f4da9}:d:\c#\projects\randomnumbersproject\randomnumbersproject\domain\domain.csproj
+i:{b97abcbc-b6d6-4958-b07b-a6a39565f2fa}:d:\c#\projects\randomnumbersproject\randomnumbersproject\domain\domain.csproj
+i:{00000000-0000-0000-0000-000000000000}:Domain
+++Interface
+i:{c6df9b4d-46c0-49f8-9384-755028f0996c}:d:\c#\projects\randomnumbersproject\randomnumbersproject\interface\interface.csproj
+i:{00000000-0000-0000-0000-000000000000}:Interface
+i:{5e42c846-d3d7-4396-86db-56a1a56b9d50}:d:\c#\projects\randomnumbersproject\randomnumbersproject\database\interface\
+i:{5e42c846-d3d7-4396-86db-56a1a56b9d50}:d:\c#\projects\randomnumbersproject\randomnumbersproject\interface\interface.csproj
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\interface\interface.csproj
+++INumberRepetitionRepository.cs
+i:{06705ad9-347b-48e3-afdb-df96b85f4da9}:d:\c#\projects\randomnumbersproject\randomnumbersproject\interface\inumberrepetitionrepository.cs
+++INumberRepository.cs
+i:{06705ad9-347b-48e3-afdb-df96b85f4da9}:d:\c#\projects\randomnumbersproject\randomnumbersproject\interface\inumberrepository.cs
+++IRandomCounterRepository.cs
+i:{06705ad9-347b-48e3-afdb-df96b85f4da9}:d:\c#\projects\randomnumbersproject\randomnumbersproject\interface\irandomcounterrepository.cs
+++IRandomGeneratorRepository.cs
+i:{06705ad9-347b-48e3-afdb-df96b85f4da9}:d:\c#\projects\randomnumbersproject\randomnumbersproject\interface\irandomgeneratorrepository.cs
+++Entities
+i:{06705ad9-347b-48e3-afdb-df96b85f4da9}:d:\c#\projects\randomnumbersproject\randomnumbersproject\entities\entities.csproj
+i:{5e42c846-d3d7-4396-86db-56a1a56b9d50}:d:\c#\projects\randomnumbersproject\randomnumbersproject\entities\entities.csproj
+i:{00000000-0000-0000-0000-000000000000}:Entities
+i:{b97abcbc-b6d6-4958-b07b-a6a39565f2fa}:d:\c#\projects\randomnumbersproject\randomnumbersproject\entities\entities.csproj
+++IGenericRepository.cs
+i:{5e42c846-d3d7-4396-86db-56a1a56b9d50}:d:\c#\projects\randomnumbersproject\randomnumbersproject\database\interface\igenericrepository.cs
+++Migrations
+i:{5e42c846-d3d7-4396-86db-56a1a56b9d50}:d:\c#\projects\randomnumbersproject\randomnumbersproject\database\migrations\
+++EFGenericRepository.cs
+i:{5e42c846-d3d7-4396-86db-56a1a56b9d50}:d:\c#\projects\randomnumbersproject\randomnumbersproject\database\repository\efgenericrepository.cs
+++DatabaseContext.cs
+i:{5e42c846-d3d7-4396-86db-56a1a56b9d50}:d:\c#\projects\randomnumbersproject\randomnumbersproject\database\databasecontext.cs
+++20230331084708_Init.cs
+i:{5e42c846-d3d7-4396-86db-56a1a56b9d50}:d:\c#\projects\randomnumbersproject\randomnumbersproject\database\migrations\20230331084708_init.cs
+++20230401134936_AddTables.cs
+i:{5e42c846-d3d7-4396-86db-56a1a56b9d50}:d:\c#\projects\randomnumbersproject\randomnumbersproject\database\migrations\20230401134936_addtables.cs
+++20230401160015_AddNumberRepetition.cs
+i:{5e42c846-d3d7-4396-86db-56a1a56b9d50}:d:\c#\projects\randomnumbersproject\randomnumbersproject\database\migrations\20230401160015_addnumberrepetition.cs
+++DatabaseContextModelSnapshot.cs
+i:{5e42c846-d3d7-4396-86db-56a1a56b9d50}:d:\c#\projects\randomnumbersproject\randomnumbersproject\database\migrations\databasecontextmodelsnapshot.cs
+++FastMember (1.5.0)
+i:{5e42c846-d3d7-4396-86db-56a1a56b9d50}:>1068
+++Microsoft.EntityFrameworkCore (7.0.4)
+i:{5e42c846-d3d7-4396-86db-56a1a56b9d50}:>1065
+++Microsoft.EntityFrameworkCore.SqlServer (7.0.4)
+i:{5e42c846-d3d7-4396-86db-56a1a56b9d50}:>1066
+++Microsoft.EntityFrameworkCore.Tools (7.0.4)
+i:{5e42c846-d3d7-4396-86db-56a1a56b9d50}:>1067
+++20230331084708_Init.Designer.cs
+i:{5e42c846-d3d7-4396-86db-56a1a56b9d50}:d:\c#\projects\randomnumbersproject\randomnumbersproject\database\migrations\20230331084708_init.designer.cs
+++20230401134936_AddTables.Designer.cs
+i:{5e42c846-d3d7-4396-86db-56a1a56b9d50}:d:\c#\projects\randomnumbersproject\randomnumbersproject\database\migrations\20230401134936_addtables.designer.cs
+++20230401160015_AddNumberRepetition.Designer.cs
+i:{5e42c846-d3d7-4396-86db-56a1a56b9d50}:d:\c#\projects\randomnumbersproject\randomnumbersproject\database\migrations\20230401160015_addnumberrepetition.designer.cs
+++NumberEntity.cs
+i:{63bb141a-946b-44d0-aa49-f39f5274be20}:d:\c#\projects\randomnumbersproject\randomnumbersproject\entities\numberentity.cs
+++NumberRepetitionEntity.cs
+i:{63bb141a-946b-44d0-aa49-f39f5274be20}:d:\c#\projects\randomnumbersproject\randomnumbersproject\entities\numberrepetitionentity.cs
+++MappingProfile.cs
+i:{b97abcbc-b6d6-4958-b07b-a6a39565f2fa}:d:\c#\projects\randomnumbersproject\randomnumbersproject\mapper\mappingprofile.cs
+++Number.cs
+i:{2a2ec16a-3383-4923-838a-469319e3784d}:d:\c#\projects\randomnumbersproject\randomnumbersproject\domain\number.cs
+++NumberRepetition.cs
+i:{2a2ec16a-3383-4923-838a-469319e3784d}:d:\c#\projects\randomnumbersproject\randomnumbersproject\domain\numberrepetition.cs
+++Constants
+i:{2a2ec16a-3383-4923-838a-469319e3784d}:d:\c#\projects\randomnumbersproject\randomnumbersproject\constants\constants.csproj
+i:{00000000-0000-0000-0000-000000000000}:Constants
+++Constants.cs
+i:{0f53a7e2-1886-468a-9eca-120a5ee50772}:d:\c#\projects\randomnumbersproject\randomnumbersproject\constants\constants.cs
+++RandomNumberProjectView
+i:{00000000-0000-0000-0000-000000000000}:RandomNumberProjectView
+++Models
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\models\
+++Views
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\views\
+++Home
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\views\home\
+++Index.cshtml
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\views\home\index.cshtml
+++Shared
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\views\shared\
+++_ViewImports.cshtml
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\views\_viewstart.cshtml
+++Startup.cs
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\startup.cs
+++css
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\wwwroot\css\
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\wwwroot\lib\bootstrap\dist\css\
+++lib
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\wwwroot\lib\
+++favicon.ico
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\wwwroot\favicon.ico
+++HomeController.cs
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\controllers\homecontroller.cs
+++ErrorViewModel.cs
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\models\errorviewmodel.cs
+++_Layout.cshtml
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\views\shared\error.cshtml
+++site.css
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\wwwroot\css\site.css
+++site.js
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\wwwroot\js\site.js
+++bootstrap
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\wwwroot\lib\bootstrap\
+++jquery
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\wwwroot\lib\jquery\
+++jquery-validation
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\wwwroot\lib\jquery-validation-unobtrusive\
+++dist
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\wwwroot\lib\bootstrap\dist\
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\wwwroot\lib\jquery\dist\
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\wwwroot\lib\jquery\license.txt
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++jquery.validate.unobtrusive.min.js
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++jquery.js
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\wwwroot\lib\jquery\dist\jquery.js
+++jquery.min.js
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\wwwroot\lib\jquery\dist\jquery.min.js
+++jquery.min.map
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\wwwroot\lib\jquery\dist\jquery.min.map
+++additional-methods.js
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++additional-methods.min.js
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.js
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.min.js
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap.css.map
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.min.css.map
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap-grid.css
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-grid.css.map
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.min.css.map
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-reboot.css
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-reboot.css.map
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.min.css.map
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap.bundle.js
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.bundle.js.map
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.bundle.min.js.map
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.js
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++bootstrap.js.map
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++bootstrap.min.js.map
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++C:\Program Files\dotnet\sdk\6.0.203\Sdks\Microsoft.NET.Sdk.Web\analyzers\cs\Microsoft.AspNetCore.Analyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.203\Sdks\Microsoft.NET.Sdk.Web\analyzers\cs\Microsoft.AspNetCore.Components.Analyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.203\Sdks\Microsoft.NET.Sdk.Web\analyzers\cs\Microsoft.AspNetCore.Mvc.Analyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.203\Sdks\Microsoft.NET.Sdk\targets\..\analyzers\Microsoft.CodeAnalysis.CSharp.NetAnalyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.203\Sdks\Microsoft.NET.Sdk\targets\..\analyzers\Microsoft.CodeAnalysis.NetAnalyzers.dll
+++Solution 'RandomNumbersProject' ‎(10 of 10 projects)
+++RandomNumberProjectViewExample
+++Privacy.cshtml
+++Solution 'RandomNumbersProject' ‎(8 of 8 projects)
+i:{00000000-0000-0000-0000-000000000000}:RandomNumbersProject.sln
+++Index - Copy.cshtml
+++RandomNumbersView.cshtml
+i:{660446d0-7d32-46a5-b8c6-d3fec861a24f}:d:\c#\projects\randomnumbersproject\randomnumbersproject\randomnumberprojectview\views\home\randomnumbersview.cshtml

@@ -3179,11 +3179,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\Projects\\RandomNumbersProject\\RandomNumbersProject\\Repository\\Repository.csproj",
+      "projectUniqueName": "D:\\C#\\git\\RandomGenerator\\RandomNumbersProject\\Repository\\Repository.csproj",
       "projectName": "Repository",
-      "projectPath": "D:\\C#\\Projects\\RandomNumbersProject\\RandomNumbersProject\\Repository\\Repository.csproj",
+      "projectPath": "D:\\C#\\git\\RandomGenerator\\RandomNumbersProject\\Repository\\Repository.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\Projects\\RandomNumbersProject\\RandomNumbersProject\\Repository\\obj\\",
+      "outputPath": "D:\\C#\\git\\RandomGenerator\\RandomNumbersProject\\Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3204,14 +3204,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\C#\\Projects\\RandomNumbersProject\\RandomNumbersProject\\Database\\Database.csproj": {
-              "projectPath": "D:\\C#\\Projects\\RandomNumbersProject\\RandomNumbersProject\\Database\\Database.csproj"
+            "D:\\C#\\git\\RandomGenerator\\RandomNumbersProject\\Database\\Database.csproj": {
+              "projectPath": "D:\\C#\\git\\RandomGenerator\\RandomNumbersProject\\Database\\Database.csproj"
             },
-            "D:\\C#\\Projects\\RandomNumbersProject\\RandomNumbersProject\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\C#\\Projects\\RandomNumbersProject\\RandomNumbersProject\\Domain\\Domain.csproj"
+            "D:\\C#\\git\\RandomGenerator\\RandomNumbersProject\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\C#\\git\\RandomGenerator\\RandomNumbersProject\\Domain\\Domain.csproj"
             },
-            "D:\\C#\\Projects\\RandomNumbersProject\\RandomNumbersProject\\Interface\\Interface.csproj": {
-              "projectPath": "D:\\C#\\Projects\\RandomNumbersProject\\RandomNumbersProject\\Interface\\Interface.csproj"
+            "D:\\C#\\git\\RandomGenerator\\RandomNumbersProject\\Interface\\Interface.csproj": {
+              "projectPath": "D:\\C#\\git\\RandomGenerator\\RandomNumbersProject\\Interface\\Interface.csproj"
             }
           }
         }

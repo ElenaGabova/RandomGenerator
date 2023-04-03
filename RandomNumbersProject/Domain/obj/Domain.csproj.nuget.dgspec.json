@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\Projects\\RandomNumbersProject\\RandomNumbersProject\\Domain\\Domain.csproj": {}
+    "D:\\C#\\git\\RandomGenerator\\RandomNumbersProject\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "D:\\C#\\Projects\\RandomNumbersProject\\RandomNumbersProject\\Constants\\Constants.csproj": {
+    "D:\\C#\\git\\RandomGenerator\\RandomNumbersProject\\Constants\\Constants.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Projects\\RandomNumbersProject\\RandomNumbersProject\\Constants\\Constants.csproj",
+        "projectUniqueName": "D:\\C#\\git\\RandomGenerator\\RandomNumbersProject\\Constants\\Constants.csproj",
         "projectName": "Constants",
-        "projectPath": "D:\\C#\\Projects\\RandomNumbersProject\\RandomNumbersProject\\Constants\\Constants.csproj",
+        "projectPath": "D:\\C#\\git\\RandomGenerator\\RandomNumbersProject\\Constants\\Constants.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Projects\\RandomNumbersProject\\RandomNumbersProject\\Constants\\obj\\",
+        "outputPath": "D:\\C#\\git\\RandomGenerator\\RandomNumbersProject\\Constants\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "D:\\C#\\Projects\\RandomNumbersProject\\RandomNumbersProject\\Domain\\Domain.csproj": {
+    "D:\\C#\\git\\RandomGenerator\\RandomNumbersProject\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Projects\\RandomNumbersProject\\RandomNumbersProject\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\C#\\git\\RandomGenerator\\RandomNumbersProject\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\C#\\Projects\\RandomNumbersProject\\RandomNumbersProject\\Domain\\Domain.csproj",
+        "projectPath": "D:\\C#\\git\\RandomGenerator\\RandomNumbersProject\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Projects\\RandomNumbersProject\\RandomNumbersProject\\Domain\\obj\\",
+        "outputPath": "D:\\C#\\git\\RandomGenerator\\RandomNumbersProject\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -90,8 +90,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\C#\\Projects\\RandomNumbersProject\\RandomNumbersProject\\Constants\\Constants.csproj": {
-                "projectPath": "D:\\C#\\Projects\\RandomNumbersProject\\RandomNumbersProject\\Constants\\Constants.csproj"
+              "D:\\C#\\git\\RandomGenerator\\RandomNumbersProject\\Constants\\Constants.csproj": {
+                "projectPath": "D:\\C#\\git\\RandomGenerator\\RandomNumbersProject\\Constants\\Constants.csproj"
               }
             }
           }

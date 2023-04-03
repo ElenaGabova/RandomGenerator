@@ -6,6 +6,7 @@ using Entities;
 using FastMember;
 using Interface;
 using Microsoft.Data.SqlClient;
+using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 using Repository.Properties;
 using System.Collections.Generic;
@@ -18,11 +19,17 @@ namespace Repository
         private readonly IGenericRepository<NumberEntity> _numberBase;
         private readonly IMapper _mapper;
         private readonly ILogger _logger;
-        public NumberRepository(IGenericRepository<NumberEntity> numberBase, IMapper mapper, ILogger<NumberRepository> logger)
+        private string connectionString = "";
+        public NumberRepository(IGenericRepository<NumberEntity> numberBase, 
+                                IMapper mapper, 
+                                ILogger<NumberRepository> logger,
+                                IConfiguration configuration)
         {
             _numberBase = numberBase;
             _mapper = mapper;
             _logger = logger;
+
+            connectionString = configuration.GetConnectionString("DefaultConnection");
         }
 
         public async Task<IEnumerable<Number>> GetAsync()
@@ -50,7 +57,7 @@ namespace Repository
 
             {
                 using (IDataReader reader = ObjectReader.Create(itemEntityList))
-                using (SqlConnection connection = new SqlConnection("Server=(localdb)\\MSSQLLocalDB;Database=RandomNumbers;Trusted_Connection=false;User Id =sa;Password=K6y&2xS1qa!"))
+                using (SqlConnection connection = new SqlConnection(connectionString))
                 using (SqlBulkCopy bcp = new SqlBulkCopy(connection))
                 {
                     connection.Open();
