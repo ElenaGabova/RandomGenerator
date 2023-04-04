@@ -4,24 +4,28 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="col-md-8" >
-    <form method="get" >
-      <div class="card shadow" style="padding:10px;margin:20px;">  
+<div class="col d-flex justify-content-center">
+    <div class="col-md-8" >
+        <form method="get" >
+          <div class="card shadow" style="padding:10px;margin:20px;">  
            
-             <label asp-for="Number"  class="boldText" >Введите число, повторения которого нужно вычислить</label>
-              <input type="number"  asp-for="Number" class="form-control" name="Number" />
-             <button type="submit"  class="btn btn-warning btn-block" style="width:16rem;margin-left:auto; margin-right:auto; read"  asp-controller="Home" asp-action="GetNumberRepetitionByNumber"  asp-route-number=@Model.Number>Вычислить</button>
-             <br />
-             <label asp-for="RepetitionNumber" class="boldText" >Введите число повторений числа:</label>
-              <input type="text" asp-for="RepetitionNumber"  class="form-control" name="RepetitionNumber" />
-             <button type="submit"  class="btn btn-warning btn-block" style="width:16rem;margin-left:auto; margin-right:auto"asp-controller="Home" asp-action="GetNumberByNumberRepetitions"  asp-route-repetitionNumber=@Model.RepetitionNumber>Вычислить</button>
-             <br />
-            <label asp-for="Result" for="inputDescription" class="boldText" >Результат:</label>
-             <textarea asp-for="Result" style="width:99%" readonly=true>@Model.Result</textarea>  
-             <br />
-             <button type="submit"  class="btn btn-warning btn-block" style="width:16rem;margin-left:auto; margin-right:auto" asp-controller="Home" asp-action="GetNumbersWithTopRepetitions">Вывести топ 10 чисел</button>
+                 <div>
+                        <label asp-for="Number"  class="boldText" >Введите число, повторения которого нужно вычислить</label>
+                        <input type="number"  asp-for="Number" class="form-control" name="Number" />
+                        <button type="submit"  class="btn btn-warning btn-block" style="width:16rem;margin-left:auto; margin-right:auto; margin-top:10px"  asp-controller="Home" asp-action="GetNumberRepetitionByNumber"  asp-route-number=@Model.Number>Вычислить</button>
+                 </div>  
+                 <div>
+                     <label asp-for="RepetitionNumber" class="boldText" >Введите число повторений числа:</label>
+                     <input type="text" asp-for="RepetitionNumber"  class="form-control" name="RepetitionNumber" />
+                     <button type="submit"  class="btn btn-warning btn-block" style="width:16rem;margin-left:auto; margin-right:auto;; margin-top:10px"asp-controller="Home" asp-action="GetNumberByNumberRepetitions"  asp-route-repetitionNumber=@Model.RepetitionNumber>Вычислить</button>
+               </div>  
+                 <div>
+                    <label asp-for="Result" for="inputDescription" class="boldText" >Результат:</label>
+                    <textarea asp-for="Result" style="width:99%" readonly=true>@Model.Result</textarea>  
+                  </div> 
+                 <button type="submit"  class="btn btn-warning btn-block" style="width:16rem;margin-left:auto; margin-right:auto" asp-controller="Home" asp-action="GetNumbersWithTopRepetitions">Вывести топ 10 чисел</button>
+        </div>
+        </form>
+
     </div>
-    </form>
-
-
 </div>

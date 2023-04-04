@@ -7,9 +7,12 @@ namespace Database
     public class DatabaseContext : DbContext
     {
         /// <summary>
-        /// Access for products table
+        /// Access for Numbers table
         /// </summary>
         public DbSet<NumberEntity> Numbers { get; set; }
+        /// <summary>
+        /// Access for NumberRepetitions table
+        /// </summary>
         public DbSet<NumberRepetitionEntity> NumberRepetitions { get; set; }
 
         public DatabaseContext() { }
@@ -20,7 +23,6 @@ namespace Database
         }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server=(localdb)\\MSSQLLocalDB;Database=RandomNumbers;Trusted_Connection=false;User Id =sa;Password=K6y&2xS1qa!");
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
