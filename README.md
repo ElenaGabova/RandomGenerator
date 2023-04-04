@@ -1,19 +1,15 @@
 # RandomGenerator
 Тестовое задание, генерация массива чисел, посчет, и методы для работы с посчитанными числами.
-<br>
-Веб-апи проекта доступно в сваггер по ссылке: https://localhost:7005/swagger/index.html
 <br><br>
-Методы:
+Методы в контроллере:
 <br>
-POST api/Numbers/AddGenerateNumbers - генерация последовательности чисел, сохранение в БД
+AddGenerateNumbers - генерация последовательности чисел, подчет повторов, сохранение в БД
 <br>
-POST api/Numbers/AddCountNumbers - подсчет повторов  сгенерированных чисел, сохранение в БД
-<br><br>
-GET api/Numbers/GetNumberRepetitionByNumber - отправка числа, получение из БД количества повторов числа
+GetNumberRepetitionByNumber - отправка числа, получение из БД количества повторов числа
 <br>
-GET api/Numbers/GetNumberByNumberRepetitions - отправка числа, получение из БД количества чисел, с таким же повторов
+GetNumberByNumberRepetitions - отправка числа, получение из БД количества чисел, с таким же повторов
 <br>
-GET api/Numbers/GetNumbersWithTopRepetitions - отправка числа повторов, получение из БД топ чисел с максимальным количеством повторов
+GetNumbersWithTopRepetitions - отправка числа повторов, получение из БД топ чисел с максимальным количеством повторов
 <br><br>
 Структура проекта:
 <br>
@@ -31,4 +27,4 @@ Interface       - интерфейсы по работе с сущностями
 <br>
 Repository - репозитории по работе с сущностями в сервисах
 <br><br>
-RandomNumbersProjectView - mvc приложение для тестирвоания функционала
+RandomNumbersProjectView - mvc приложение для тестировоания функционала
